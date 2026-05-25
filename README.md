@@ -60,6 +60,9 @@ The data architecture strictly follows enterprise industry standards using the *
 ## 🔗 Live Interactive Demo
 
 The interactive cloud executive dashboard can be accessed directly through the link below:
+<p align="center">
+  <img src="https://github.com/cliffpk3/gcp-bi-ml-etl/blob/main/img/dashboard.png?raw=true" alt="SUPERSTORE REPORT">
+</p>
 
 👉 **[Access the SUPERSTORE Interactive Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiZGU1NGZlOTctZjQzMC00ZWEyLThjODktOWFiMmU2YzQxZDBjIiwidCI6IjIzY2FlMWJkLThiNTQtNGI3ZC1iZWM4LTNlZGI0ZTUyNmU1YiJ9)**
 
