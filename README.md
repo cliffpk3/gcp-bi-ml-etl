@@ -61,6 +61,6 @@ The data architecture strictly follows enterprise industry standards using the *
 
 The interactive cloud executive dashboard can be accessed directly through the link below:
 
-👉 **[Access the SUPERSTORE Interactive Dashboard Here](Insert_Your_Generated_Publish_To_Web_URL_Here)**
+👉 **[Access the SUPERSTORE Interactive Dashboard Here]https://app.powerbi.com/view?r=eyJrIjoiZGU1NGZlOTctZjQzMC00ZWEyLThjODktOWFiMmU2YzQxZDBjIiwidCI6IjIzY2FlMWJkLThiNTQtNGI3ZC1iZWM4LTNlZGI0ZTUyNmU1YiJ9**
 
 ---
