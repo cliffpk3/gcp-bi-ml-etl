@@ -41,12 +41,11 @@ A core pillar of this project was diving deep into and practically applying mode
 The data architecture strictly follows enterprise industry standards using the **Star Schema** methodology with 1-to-Many (1:N) relationships and unidirectional cross-filtering, keeping the semantic model exceptionally lightweight and high-performing:
 
 * **Fact Tables:**
-  * `fSales_Historical`: Consolidated historical transactional data.
-  * `sales_predictions`: Machine Learning-generated output containing forecasted future series along with lower and upper error confidence bounds.
+  * `tbl fSales_Historical`: Consolidated historical transactional data.
+  * `tbl fSales_Predictions`: Machine Learning-generated output containing forecasted future series along with lower and upper error confidence bounds.
 * **Dimension Tables:**
-  * `dCalendar`: Unified time dimension serving as the temporal bridge between historical actuals and future predictions.
-  * `Storages`: Enterprise dimension containing precise geospatial attributes (Cities and Provinces) mapping the international retail footprints.
-  * `d_family`: Product category dimension clustering the corporate automotive product mix.
+  * `pbi tbl dCalendar`: Unified time dimension serving as the temporal bridge between historical actuals and future predictions.
+  * `tbl dStorages`: Enterprise dimension containing precise geospatial attributes (Cities and Provinces) mapping the international retail footprints.
 
 ---
 
