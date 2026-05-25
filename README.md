@@ -1,7 +1,7 @@
 # SUPERSTORE Automotive Financial Forecasting & Analytics Platform
 
 <p align="center">
-  <img src="(https://github.com/cliffpk3/gcp-bi-ml-etl/blob/main/img/superstore-logo.png?raw=true)" alt="SUPERSTORE Logo" width="300">
+  <img src="https://github.com/cliffpk3/gcp-bi-ml-etl/blob/main/img/superstore-logo.png?raw=true" alt="SUPERSTORE" width="300">
 </p>
 
 ## 📋 Project Description
